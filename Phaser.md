@@ -1,4 +1,4 @@
-#Documento explicativo de phaser Nave con bola que rebota
+# Documento explicativo de phaser Nave con bola que rebota
 ## Phaser
 
 Phaser es un framework de código abierto para el desarrollo de juegos en HTML5 y JavaScript. Proporciona una variedad de herramientas y funcionalidades para crear juegos interactivos y experiencias multimedia. Algunas de sus características incluyen gestión de escenas, sistemas de física, animaciones, manipulación de sprites y sonido, entre otros.
