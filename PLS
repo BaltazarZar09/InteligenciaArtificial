@@ -1,0 +1,20 @@
+^https?://([A-Za-z0-9.-]*\.)?adobe\.com/ ^https?://([A-Za-z0-9.-]"\.)?macromedia.com/
+Apple Update without content scanning side effects.]
+■/Extension blocking
+^https?://([A-Za-z0-9.-]"\.)?apple\.com\.?/ ^https?://([A-Za-z0-9.-]*\.)?apple.com
+/Extension blocking / MIME type blocking/URL Filter/Content ing / Certificate trust check/Certificate date check
+^https?://([A-Za-z0-9.-]"\.)?avast\.com/
+around Chrome Byte Range-Request Bug]
+/Extension blocking / MIME type blocking/ Block by download
+^https?://([A-Za-z0-9.-]+\.google\.com/)[A-Za-z0-9.-/]*chrome_(updater|installer)\.exe$
+^https?://([A-Za-z0-9.-]+\.google\.com\/)(([A-Za-z0-9.-\/]+)?)[0- 9._]*chrome_(updater installer).exe
+around Firefox Byte Range-Request Bug]
+/Extension blocking / MIME type blocking / Block by download
+^http://download\.cdn\.mozilla\.net/.*\.mar
+/Extension blocking / MIME type blocking/URL Filter/Content ing/Certificate trust check/Certificate date check
+^https?://[A-Za-z0-9.-]*kaspersky-help.com/ ^https?://[A-Za-z0-9.-]*kasperskylabs.net/ ^https?://[A-Za-z0-9.-]*kaspersky.com/
+^https?://[A-Za-z0-9.-]*kaspersky-labs.com/
+^http://[A-Za-z0-9]+\kaspersky-help.com/
+^http://[A-Za-z0-9]+\.kaspersky.com/
+^http://[A-Za-z0-9]+\.kaspersky-labs.com/
+^http://[A-Za-z0-9]+\.kasperskylabs.net/
