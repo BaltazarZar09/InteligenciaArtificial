@@ -21,3 +21,8 @@ around Firefox Byte Range-Request Bug]
 ^http://[A-Za-z0-9]+\.kaspersky.com/
 ^http://[A-Za-z0-9]+\.kaspersky-labs.com/
 ^http://[A-Za-z0-9]+\.kasperskylabs.net/
+^([A-Za-z0-9-]*\.)?kaspersky-help\.com/.*
+^([A-Za-z0-9-]*\.)?kasperskylabs\.net/.*
+^([A-Za-z0-9-]*\.)?kaspersky\.com/.*
+^([A-Za-z0-9-]*\.)?kaspersky-labs\.com/.*
+
