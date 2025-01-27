@@ -6,6 +6,8 @@ Apple Update without content scanning side effects.]
 ^https?://([A-Za-z0-9.-]"\.)?avast\.com/
 around Chrome Byte Range-Request Bug]
 /Extension blocking / MIME type blocking/ Block by download
+^([A-Za-z0-9-]*\.)?google\.com\/.*
+^([A-Za-z0-9-]*\.)?google\.com\/.*[0-9._]*chrome_(updater|installer)\.exe
 ^https?://([A-Za-z0-9.-]+\.google\.com/)[A-Za-z0-9.-/]*chrome_(updater|installer)\.exe$
 ^https?://([A-Za-z0-9.-]+\.google\.com\/)(([A-Za-z0-9.-\/]+)?)[0- 9._]*chrome_(updater installer).exe
 around Firefox Byte Range-Request Bug]
