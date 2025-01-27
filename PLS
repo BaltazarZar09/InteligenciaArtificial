@@ -31,3 +31,11 @@ around Firefox Byte Range-Request Bug]
 ^([A-Za-z0-9-]*\.)?kaspersky\.com/.*
 ^([A-Za-z0-9-]*\.)?kaspersky-labs\.com/.*
 
+^([A-Za-z0-9-]*\.)?windowsupdate\.com/.*
+^([A-Za-z0-9-]*\.)?microsoft\.com/.*
+^([A-Za-z0-9-]*\.)?ovi\.com/.*
+^([A-Za-z0-9-]*\.)?nds[0-9]\.nokia\.com/.*
+^beta\.nokia\.com/.*
+^([A-Za-z0-9-]*\.)?office365\.com/.*
+^([A-Za-z0-9-]*\.)?pgchbl\.com/.*
+^([A-Za-z0-9-]*\.)?collaborationhost\.net/.*
