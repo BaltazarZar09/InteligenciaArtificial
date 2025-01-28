@@ -39,3 +39,7 @@ around Firefox Byte Range-Request Bug]
 ^([A-Za-z0-9-]*\.)?office365\.com/.*
 ^([A-Za-z0-9-]*\.)?pgchbl\.com/.*
 ^([A-Za-z0-9-]*\.)?collaborationhost\.net/.*
+
+^([A-Za-z0-9-]*\.)?office365\.com/.*
+^([A-Za-z0-9-]*\.)?pgchb\.com/.*
+^([A-Za-z0-9-]*\.)?collaborationhost\.net/.*
